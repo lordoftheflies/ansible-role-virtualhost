@@ -1,1 +1,4 @@
 ---
+roles:
+  - lordoftheflies.ansible_role_apache2
+collections: []
