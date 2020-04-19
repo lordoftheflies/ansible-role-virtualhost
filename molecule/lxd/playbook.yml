@@ -1,0 +1,9 @@
+---
+- name: Converge
+  hosts: all
+  vars:
+    - virtualhost_deployment_users_home: /root
+    - virtualhost_testing_provider: lxd
+
+  roles:
+    - virtualhost

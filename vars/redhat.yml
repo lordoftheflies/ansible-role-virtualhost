@@ -1,0 +1,4 @@
+---
+# roles/virtualhost/vars/debian.yml
+
+virtualhost_package_extension: 'rpm'
