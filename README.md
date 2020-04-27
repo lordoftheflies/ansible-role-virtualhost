@@ -7,7 +7,7 @@ description: 'Quickstart and examples for demonstrating the role capabilities.'
 
 ## Status
 
-[![Build Status](https://travis-ci.org/lordoftheflies/virtualhost.svg?branch=master)](https://travis-ci.org/lordoftheflies/ansible-role-virtualhost)
+[![Build Status](https://travis-ci.org/lordoftheflies/ansible-role-virtualhost.svg?branch=master)](https://travis-ci.org/lordoftheflies/ansible-role-virtualhost)
 
 ## Description
 
