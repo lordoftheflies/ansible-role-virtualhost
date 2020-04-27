@@ -8,13 +8,10 @@ description: 'Quickstart and examples for demonstrating the role capabilities.'
 ## Status
 
 [![Build Status](https://travis-ci.org/lordoftheflies/ansible-role-virtualhost.svg?branch=master)](https://travis-ci.org/lordoftheflies/ansible-role-virtualhost)
-<<<<<<< HEAD
 
 [![Version](https://img.shields.io/github/v/tag/lordoftheflies/ansible-role-virtualhost?sort=semver)](https://github.com/lordoftheflies/ansible-role-virtualhost/releases)
 
-![GitHub Release Date](https://img.shields.io/github/release-date/lordoftheflies/ansible-role-virtualhost)
-=======
->>>>>>> master
+0[GitHub Release Date](https://img.shields.io/github/release-date/lordoftheflies/ansible-role-virtualhost)
 
 ## Description
 
@@ -82,4 +79,4 @@ vagrant up xenial
 
 [Apache 2.0](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
 
-**NOTE**: Role generated using [ansible-collection-skeleton](https://github.com/lordoftheflies/ansible-role-skeleton)
+**NOTE**: Role generated using [ansible-role-skeleton](https://github.com/lordoftheflies/ansible-role-skeleton)
