@@ -11,7 +11,7 @@ description: 'Quickstart and examples for demonstrating the role capabilities.'
 
 [![Version](https://img.shields.io/github/v/tag/lordoftheflies/ansible-role-virtualhost?sort=semver)](https://github.com/lordoftheflies/ansible-role-virtualhost/releases)
 
-[GitHub Release Date](https://img.shields.io/github/release-date/lordoftheflies/ansible-role-virtualhost)
+![GitHub Release Date](https://img.shields.io/github/release-date/lordoftheflies/ansible-role-virtualhost)
 
 [![time tracker](https://wakatime.com/badge/github/lordoftheflies/ansible-role-virtualhost.svg)](https://wakatime.com/badge/github/lordoftheflies/ansible-role-virtualhost)
 
